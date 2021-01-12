@@ -17,3 +17,28 @@ h3 {
    color: #111;
    text-align: center;
 }
+
+.caixa1, .caixa2, .caixa3, .caixa4 {
+   height: 100%;
+   opacity: 0.5;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-position: center;
+}
+
+.caixa1 {
+   background-image: url("../img/imagem1.jpg");
+}
+
+.caixa2 {
+   background-image: url("../img/imagem2.jpg");
+}
+
+.caixa3 {
+   background-image: url("../img/imagem3.jpg");
+}
+
+.caixa4 {
+   background-image: url("../img/imagem4.jpg");
+}
